@@ -1,7 +1,5 @@
 name: SQAaaS-Test
-
 on: [push]
-
 jobs:
    sqaaas_job:
      runs-on: ubuntu-latest
